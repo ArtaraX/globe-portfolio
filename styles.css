@@ -52,6 +52,7 @@ input:checked + .slider {
 }
 
 input:checked + .slider .sun {
+    background
     opacity: 1; /* Visible in dark mode */
 }
 
@@ -117,7 +118,7 @@ body {
 .container {
     max-width: 1200px;
     margin: 0 auto;
-    padding: 0 40px;
+    padding: 0 3%;
     position: relative;
 }
 

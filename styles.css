@@ -1,7 +1,7 @@
 /* Toggle Switch */
 .switch {
     position: absolute;
-    top: 20px;
+    top: 10%;
     right: 10px;
     display: inline-block;
     width: 60px;
@@ -158,7 +158,7 @@ h1 {
 }
 
 .projects-section {
-    padding: 10% 5%;
+    padding: 10% 0%;
 }
 
 h2 {
@@ -173,12 +173,12 @@ h2 {
 .projects {
     display: grid;
     grid-template-columns: repeat(auto-fit, minmax(340px, 1fr));
-    gap: 30px;
+    gap: 2%;
 }
 
 .project-card {
     background: var(--card-bg);
-    padding: 25px;
+    padding: 5%;
     border-radius: 8px;
     border: 1px solid var(--card-border);
     transition: all 0.3s ease;
